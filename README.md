@@ -110,4 +110,6 @@ curl -X PUT http://localhost:3000/pessoas/1 -H "Content-Type: application/json" 
 ```bash
 curl -X DELETE http://localhost:3000/pessoas/1
 ```
-
+## Agradecimentos ao curso do Professor Edson Maia 
+https://edsonmaiap.wordpress.com/
+https://www.youtube.com/@ProfessorEdsonMaia
